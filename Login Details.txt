@@ -1,0 +1,7 @@
+username kaazif
+paswword 123
+
+
+all are working perfect but that chart and top of the chart are not working but there is a small issue.
+
+enjoy your system
