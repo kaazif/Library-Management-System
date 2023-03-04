@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<jsmoothproject>
+<JVMSearchPath>registry</JVMSearchPath>
+<JVMSearchPath>javahome</JVMSearchPath>
+<JVMSearchPath>jrepath</JVMSearchPath>
+<JVMSearchPath>jdkpath</JVMSearchPath>
+<JVMSearchPath>exepath</JVMSearchPath>
+<JVMSearchPath>jview</JVMSearchPath>
+<arguments></arguments>
+<classPath>..\Documents\NetBeansProjects\Library Managmnet System\dist\lib\AbsoluteLayout.jar</classPath>
+<classPath>..\Documents\NetBeansProjects\Library Managmnet System\dist\lib\RSCalendar.jar</classPath>
+<classPath>..\Documents\NetBeansProjects\Library Managmnet System\dist\lib\RSFoto_v1.0.jar</classPath>
+<classPath>..\Documents\NetBeansProjects\Library Managmnet System\dist\lib\RSTableMetro.jar</classPath>
+<classPath>..\Documents\NetBeansProjects\Library Managmnet System\dist\lib\RojeruSan.parte1.jar</classPath>
+<classPath>..\Documents\NetBeansProjects\Library Managmnet System\dist\lib\jcommon-1.0.23.jar</classPath>
+<classPath>..\Documents\NetBeansProjects\Library Managmnet System\dist\lib\jfreechart-1.0.19.jar</classPath>
+<classPath>..\Documents\NetBeansProjects\Library Managmnet System\dist\lib\mysql-connector-j-8.0.31.jar</classPath>
+<currentDirectory>C:\Users\kaazif\Documents</currentDirectory>
+<embeddedJar>true</embeddedJar>
+<executableName>Library Managmnet System.exe</executableName>
+<iconLocation>D:\download.jfif</iconLocation>
+<initialMemoryHeap>10485760</initialMemoryHeap>
+<jarLocation>..\Documents\NetBeansProjects\Library Managmnet System\dist\Library_Managmnet_System.jar</jarLocation>
+<mainClassName>frame.LoginPage</mainClassName>
+<maximumMemoryHeap>52428800</maximumMemoryHeap>
+<maximumVersion></maximumVersion>
+<minimumVersion>1.8</minimumVersion>
+<skeletonName>Windowed Wrapper</skeletonName>
+<skeletonProperties>
+<key>Message</key>
+<value>Java has not been found on your computer. Do you want to download it?</value>
+</skeletonProperties>
+<skeletonProperties>
+<key>URL</key>
+<value>http://www.java.com</value>
+</skeletonProperties>
+<skeletonProperties>
+<key>SingleProcess</key>
+<value>0</value>
+</skeletonProperties>
+<skeletonProperties>
+<key>SingleInstance</key>
+<value>0</value>
+</skeletonProperties>
+<skeletonProperties>
+<key>JniSmooth</key>
+<value>0</value>
+</skeletonProperties>
+<skeletonProperties>
+<key>Debug</key>
+<value>0</value>
+</skeletonProperties>
+</jsmoothproject>
